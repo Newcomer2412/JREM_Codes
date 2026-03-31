@@ -1,0 +1,144 @@
+﻿<UserControl x:Class="MachineControlBase.IOMonitorUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:local="clr-namespace:MachineControlBase"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             Width="Auto" Height="Auto"
+             d:DesignHeight="1080" d:DesignWidth="1800" IsVisibleChanged="UserControl_IsVisibleChanged"
+             mc:Ignorable="d">
+    <Grid Background="#FF151515">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.01*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="0.02*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="0.01*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*" />
+            <RowDefinition Height="1.2*" />
+            <RowDefinition Height="1.2*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="0.1*" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="1" Grid.Column="1" Margin="0,0,0,10" Background="CadetBlue" CornerRadius="10,10,10,10">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="WhiteSmoke" Text="Input List" />
+        </Border>
+
+        <Border Grid.Row="1" Grid.Column="3" Margin="0,0,0,10" Background="PaleVioletRed" CornerRadius="10,10,10,10">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="WhiteSmoke" Text="Output List" />
+        </Border>
+
+        <Grid Grid.Row="2" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="0.02*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Button x:Name="BtInputUp" Grid.Row="0" Grid.Column="0" Background="#FF303030" BorderThickness="0" Click="BtInputUp_Click">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Height="50" Source="..\ImagePart\up-arrow.png" Stretch="Uniform" />
+                    <TextBlock Grid.Column="2"
+                               Margin="10,0,0,0" VerticalAlignment="Center"
+                               FontSize="30" FontWeight="Bold" Foreground="WhiteSmoke" Text="UP" />
+                </Grid>
+            </Button>
+            <Button x:Name="BtInputDown" Grid.Row="0" Grid.Column="2" Background="#FF303030" BorderThickness="0" Click="BtInputDown_Click">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Height="50" Source="..\ImagePart\down-arrow.png" Stretch="Uniform" />
+                    <TextBlock Grid.Column="2"
+                               Margin="10,0,0,0" VerticalAlignment="Center"
+                               FontSize="30" FontWeight="Bold" Foreground="WhiteSmoke" Text="DOWN" />
+                </Grid>
+            </Button>
+        </Grid>
+
+        <Grid Grid.Row="2" Grid.Column="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="0.02*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Button x:Name="BtOutputUp" Grid.Row="0" Grid.Column="0" Background="#FF303030" BorderThickness="0" Click="BtOutputUp_Click">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Height="50" Source="..\ImagePart\up-arrow.png" Stretch="Uniform" />
+                    <TextBlock Grid.Column="2"
+                               Margin="10,0,0,0" VerticalAlignment="Center"
+                               FontSize="30" FontWeight="Bold" Foreground="WhiteSmoke" Text="UP" />
+                </Grid>
+            </Button>
+            <Button x:Name="BtOutputDown" Grid.Row="0" Grid.Column="2" Background="#FF303030" BorderThickness="0" Click="BtOutputDown_Click">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="1*" />
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" Height="50" Source="..\ImagePart\down-arrow.png" Stretch="Uniform" />
+                    <TextBlock Grid.Column="2"
+                               Margin="10,0,0,0" VerticalAlignment="Center"
+                               FontSize="30" FontWeight="Bold" Foreground="WhiteSmoke" Text="DOWN" />
+                </Grid>
+            </Button>
+        </Grid>
+
+        <local:IOSingleUI x:Name="IOSinglePanel1" Grid.Row="3" Grid.Column="1" Height="30" _bInput="True" _iIndex="0" />
+        <local:IOSingleUI x:Name="IOSinglePanel2" Grid.Row="4" Grid.Column="1" Height="30" _bInput="True" _iIndex="1" />
+        <local:IOSingleUI x:Name="IOSinglePanel3" Grid.Row="5" Grid.Column="1" Height="30" _bInput="True" _iIndex="2" />
+        <local:IOSingleUI x:Name="IOSinglePanel4" Grid.Row="6" Grid.Column="1" Height="30" _bInput="True" _iIndex="3" />
+        <local:IOSingleUI x:Name="IOSinglePanel5" Grid.Row="7" Grid.Column="1" Height="30" _bInput="True" _iIndex="4" />
+        <local:IOSingleUI x:Name="IOSinglePanel6" Grid.Row="8" Grid.Column="1" Height="30" _bInput="True" _iIndex="5" />
+        <local:IOSingleUI x:Name="IOSinglePanel7" Grid.Row="9" Grid.Column="1" Height="30" _bInput="True" _iIndex="6" />
+        <local:IOSingleUI x:Name="IOSinglePanel8" Grid.Row="10" Grid.Column="1" Height="30" _bInput="True" _iIndex="7" />
+        <local:IOSingleUI x:Name="IOSinglePanel9" Grid.Row="11" Grid.Column="1" Height="30" _bInput="True" _iIndex="8" />
+        <local:IOSingleUI x:Name="IOSinglePanel10" Grid.Row="12" Grid.Column="1" Height="30" _bInput="True" _iIndex="9" />
+        <local:IOSingleUI x:Name="IOSinglePanel11" Grid.Row="13" Grid.Column="1" Height="30" _bInput="True" _iIndex="10" />
+        <local:IOSingleUI x:Name="IOSinglePanel12" Grid.Row="14" Grid.Column="1" Height="30" _bInput="True" _iIndex="11" />
+        <local:IOSingleUI x:Name="IOSinglePanel13" Grid.Row="15" Grid.Column="1" Height="30" _bInput="True" _iIndex="12" />
+        <local:IOSingleUI x:Name="IOSinglePanel14" Grid.Row="16" Grid.Column="1" Height="30" _bInput="True" _iIndex="13" />
+        <local:IOSingleUI x:Name="IOSinglePanel15" Grid.Row="17" Grid.Column="1" Height="30" _bInput="True" _iIndex="14" />
+        <local:IOSingleUI x:Name="IOSinglePanel16" Grid.Row="18" Grid.Column="1" Height="30" _bInput="True" _iIndex="15" />
+        <local:IOSingleUI x:Name="IOSinglePanel17" Grid.Row="3" Grid.Column="3" Height="30" _bInput="False" _iIndex="0" />
+        <local:IOSingleUI x:Name="IOSinglePanel18" Grid.Row="4" Grid.Column="3" Height="30" _bInput="False" _iIndex="1" />
+        <local:IOSingleUI x:Name="IOSinglePanel19" Grid.Row="5" Grid.Column="3" Height="30" _bInput="False" _iIndex="2" />
+        <local:IOSingleUI x:Name="IOSinglePanel20" Grid.Row="6" Grid.Column="3" Height="30" _bInput="False" _iIndex="3" />
+        <local:IOSingleUI x:Name="IOSinglePanel21" Grid.Row="7" Grid.Column="3" Height="30" _bInput="False" _iIndex="4" />
+        <local:IOSingleUI x:Name="IOSinglePanel22" Grid.Row="8" Grid.Column="3" Height="30" _bInput="False" _iIndex="5" />
+        <local:IOSingleUI x:Name="IOSinglePanel23" Grid.Row="9" Grid.Column="3" Height="30" _bInput="False" _iIndex="6" />
+        <local:IOSingleUI x:Name="IOSinglePanel24" Grid.Row="10" Grid.Column="3" Height="30" _bInput="False" _iIndex="7" />
+        <local:IOSingleUI x:Name="IOSinglePanel25" Grid.Row="11" Grid.Column="3" Height="30" _bInput="False" _iIndex="8" />
+        <local:IOSingleUI x:Name="IOSinglePanel26" Grid.Row="12" Grid.Column="3" Height="30" _bInput="False" _iIndex="9" />
+        <local:IOSingleUI x:Name="IOSinglePanel27" Grid.Row="13" Grid.Column="3" Height="30" _bInput="False" _iIndex="10" />
+        <local:IOSingleUI x:Name="IOSinglePanel28" Grid.Row="14" Grid.Column="3" Height="30" _bInput="False" _iIndex="11" />
+        <local:IOSingleUI x:Name="IOSinglePanel29" Grid.Row="15" Grid.Column="3" Height="30" _bInput="False" _iIndex="12" />
+        <local:IOSingleUI x:Name="IOSinglePanel30" Grid.Row="16" Grid.Column="3" Height="30" _bInput="False" _iIndex="13" />
+        <local:IOSingleUI x:Name="IOSinglePanel31" Grid.Row="17" Grid.Column="3" Height="30" _bInput="False" _iIndex="14" />
+        <local:IOSingleUI x:Name="IOSinglePanel32" Grid.Row="18" Grid.Column="3" Height="30" _bInput="False" _iIndex="15" />
+    </Grid>
+</UserControl>

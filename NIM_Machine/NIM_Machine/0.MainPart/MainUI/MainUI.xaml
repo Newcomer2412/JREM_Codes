@@ -1,0 +1,169 @@
+﻿<UserControl x:Class="MachineControlBase.MainUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:local="clr-namespace:MachineControlBase"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="1080" d:DesignWidth="1800"
+             mc:Ignorable="d">
+    <UserControl.Resources>
+        <DoubleAnimation x:Key="MoveAnimationKey" SpeedRatio="2" Storyboard.TargetName="SlideStackPanel" Storyboard.TargetProperty="(Canvas.Top)" />
+    </UserControl.Resources>
+    <!--  Main UI 분할  -->
+    <Grid Background="Black">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+
+        <!--  장비 구동 로그 및 생산 수량 카운트 등 표시 화면  -->
+        <Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.8*" />
+                    <RowDefinition Height="0.6*" />
+                    <RowDefinition Height="0.8*" />
+                    <RowDefinition Height="0.8*" />
+                    <RowDefinition Height="3*" />
+                </Grid.RowDefinitions>
+                <!--  Main 화면 Slide 좌표  -->
+                <Grid Margin="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <Border Background="#FF333333" CornerRadius="10,10,0,0">
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="13" Foreground="WhiteSmoke" Text="Map" />
+                    </Border>
+                    <Border Grid.Row="1" Background="#99222222" CornerRadius="0,0,10,10">
+                        <Grid Margin="2">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition />
+                                    <ColumnDefinition />
+                                </Grid.ColumnDefinitions>
+                                <Image Margin="14" Source="..\..\ImagePart\SlideMain.png" />
+                                <Image Grid.Column="1" Margin="15" Source="..\..\ImagePart\SlideCamera.png" />
+                                <Border x:Name="BdSelectedSlide1">
+                                    <Border.Triggers>
+                                        <EventTrigger RoutedEvent="Loaded">
+                                            <BeginStoryboard>
+                                                <Storyboard RepeatBehavior="Forever">
+                                                    <DoubleAnimation Storyboard.TargetName="ReSlide1" Storyboard.TargetProperty="StrokeThickness" To="2" Duration="0:0:0.25" />
+                                                    <DoubleAnimation RepeatBehavior="Forever" Storyboard.TargetName="ReSlide1" Storyboard.TargetProperty="StrokeDashOffset" From="1000" To="0" Duration="0:3:0" />
+                                                </Storyboard>
+                                            </BeginStoryboard>
+                                        </EventTrigger>
+                                    </Border.Triggers>
+                                    <Rectangle x:Name="ReSlide1" Fill="Transparent" PreviewMouseLeftButtonDown="ReSlide1_PreviewMouseLeftButtonDown" Stroke="LightGray" StrokeDashArray="4" StrokeThickness="1" />
+                                </Border>
+                                <Border x:Name="BdSelectedSlide2" Grid.Column="1">
+                                    <Border.Triggers>
+                                        <EventTrigger RoutedEvent="Loaded">
+                                            <BeginStoryboard>
+                                                <Storyboard RepeatBehavior="Forever">
+                                                    <DoubleAnimation Storyboard.TargetName="ReSlide2" Storyboard.TargetProperty="StrokeThickness" To="2" Duration="0:0:0.25" />
+                                                    <DoubleAnimation RepeatBehavior="Forever" Storyboard.TargetName="ReSlide2" Storyboard.TargetProperty="StrokeDashOffset" From="1000" To="0" Duration="0:3:0" />
+                                                </Storyboard>
+                                            </BeginStoryboard>
+                                        </EventTrigger>
+                                    </Border.Triggers>
+                                    <Rectangle x:Name="ReSlide2" Fill="Transparent" PreviewMouseLeftButtonDown="ReSlide2_PreviewMouseLeftButtonDown" Stroke="Transparent" StrokeDashArray="4" StrokeThickness="1" />
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Grid>
+
+                <Grid Grid.Row="1" Margin="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <Border Height="25" Background="#FF333333" CornerRadius="10,10,0,0">
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="13" Foreground="WhiteSmoke" Text="UPH" />
+                    </Border>
+                    <Border Grid.Row="1" Grid.RowSpan="2" Background="#99222222" CornerRadius="0,0,10,10" />
+                    <TextBlock x:Name="TbUPHCount"
+                               Grid.Row="1"
+                               HorizontalAlignment="Center" VerticalAlignment="Center"
+                               FontSize="30" Foreground="WhiteSmoke" Text="0" />
+                </Grid>
+
+                <Grid Grid.Row="2" Margin="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <Border Height="25" Background="#FF333333" CornerRadius="10,10,0,0">
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="13" Foreground="WhiteSmoke" Text="생산 개 수" />
+                    </Border>
+                    <Border Grid.Row="1" Grid.RowSpan="2" Background="#99222222" CornerRadius="0,0,10,10" />
+                    <TextBlock x:Name="TbWorkCount"
+                               Grid.Row="1"
+                               Width="145"
+                               HorizontalAlignment="Center" VerticalAlignment="Center"
+                               FontSize="30" Foreground="WhiteSmoke" Text="0" TextAlignment="Center" />
+                    <Button Grid.Row="2"
+                            Margin="10"
+                            Background="ForestGreen" Click="Work_Count_Reset_Button_Click" Content="초기화" FontSize="15" Foreground="WhiteSmoke" />
+                </Grid>
+
+                <Grid Grid.Row="3" Margin="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <Border Height="25" Background="#FF333333" CornerRadius="10,10,0,0">
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="13" Foreground="WhiteSmoke" Text="불량 개 수" />
+                    </Border>
+                    <Border Grid.Row="1" Grid.RowSpan="2" Background="#99222222" CornerRadius="0,0,10,10" />
+                    <TextBlock x:Name="TbNgCount"
+                               Grid.Row="1"
+                               Width="145"
+                               HorizontalAlignment="Center" VerticalAlignment="Center"
+                               FontSize="30" Foreground="WhiteSmoke" Text="0" TextAlignment="Center" />
+                    <Button Grid.Row="2"
+                            Margin="10"
+                            Background="ForestGreen" Click="NG_Count_Reset_Button_Click" Content="초기화" FontSize="15" Foreground="WhiteSmoke" />
+                </Grid>
+
+                <Grid Grid.Row="4" Margin="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+                    <Border Height="25" Background="#FF333333" CornerRadius="10,10,0,0">
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="13" Foreground="WhiteSmoke" Text="Log" />
+                    </Border>
+                    <ListView x:Name="ListViewProgramLog"
+                              Grid.Row="1"
+                              Margin="2"
+                              Background="#00000000" BorderThickness="0"
+                              ItemsSource="{Binding Items}"
+                              Style="{StaticResource ListViewStyle}"
+                              TextElement.FontSize="11" VirtualizingStackPanel.VirtualizationMode="Recycling">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Width="100" Background="#FF333333" Text="{Binding strMessage}" TextWrapping="Wrap" />
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Grid>
+            </Grid>
+        </Grid>
+
+        <!--  Vision, 장비 구동 중 유닛 등 상태 표시 화면  -->
+        <Grid Grid.Column="1">
+            <!--  Slide 화면  -->
+            <Grid x:Name="SlideGrid">
+                <Canvas Width="{Binding ActualWidth, ElementName=SlideGrid}" Height="{Binding ActualHeight, ElementName=SlideGrid}" ClipToBounds="True">
+                    <StackPanel x:Name="SlideStackPanel" Canvas.Top="0" Width="{Binding ActualWidth, ElementName=SlideGrid}" Orientation="Vertical">
+                        <ContentControl x:Name="SlidePanel1" Width="{Binding ActualWidth, ElementName=SlideGrid}" Height="{Binding ActualHeight, ElementName=SlideGrid}" BorderThickness="0" />
+                        <ContentControl x:Name="SlidePanel2" Width="{Binding ActualWidth, ElementName=SlideGrid}" Height="{Binding ActualHeight, ElementName=SlideGrid}" BorderThickness="0" />
+                    </StackPanel>
+                </Canvas>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>
