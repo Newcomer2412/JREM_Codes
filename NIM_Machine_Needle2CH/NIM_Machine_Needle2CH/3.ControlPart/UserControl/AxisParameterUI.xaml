@@ -1,0 +1,76 @@
+﻿<UserControl x:Class="MachineControlBase.AxisParameterUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MachineControlBase"
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="1200">
+    <Grid x:Name="MainFrame" Background="Transparent">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="AxisName" Content="Axis Name" Foreground="White" Background="Transparent" Margin="5,0,0,0"
+                HorizontalAlignment="Left" VerticalAlignment="Stretch" FontSize="12" Click="AxisName_Click"/>
+        <Grid Grid.Column="1" Margin="5,0,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+            </Grid.ColumnDefinitions>
+            <TextBox Grid.Column="0" x:Name="Vel" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" 
+                     Foreground="AntiqueWhite"  FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Grid.Column="1" x:Name="Acc" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" 
+                     Foreground="AntiqueWhite"  FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Grid.Column="2" x:Name="Dec" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" 
+                     Foreground="AntiqueWhite"  FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            
+            <TextBox Grid.Column="3" x:Name="HomeVel" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" Foreground="AntiqueWhite"  
+                     FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Grid.Column="4" x:Name="HomeAcc" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" Foreground="AntiqueWhite"  
+                     FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Grid.Column="5" x:Name="HomeOffset" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" Foreground="AntiqueWhite"  
+                     FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Grid.Column="6" x:Name="HomeClearTime" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" Foreground="AntiqueWhite"  
+                     FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+            <ComboBox Grid.Column="7" FontSize="12" x:Name="HomeUseZPhase" Margin="2">
+                <ComboBoxItem FontSize="12">Use</ComboBoxItem>
+                <ComboBoxItem FontSize="12">Not Use</ComboBoxItem>
+            </ComboBox>
+            
+            <ComboBox Grid.Column="8" FontSize="12" x:Name="HomeSenType" Margin="2">
+                <ComboBoxItem FontSize="12">NEGATIVE</ComboBoxItem>
+                <ComboBoxItem FontSize="12">POSITIVE</ComboBoxItem>
+                <ComboBoxItem FontSize="12">HOME</ComboBoxItem>
+                <ComboBoxItem FontSize="12">Z_PHASE</ComboBoxItem>
+            </ComboBox>
+
+            <ComboBox Grid.Column="9" FontSize="12" x:Name="HomeDirection" Margin="2">
+                <ComboBoxItem>NEGATIVE</ComboBoxItem>
+                <ComboBoxItem>POSITIVE</ComboBoxItem>
+            </ComboBox>
+            
+            <TextBox Grid.Column="10" x:Name="HomeTimeOut" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" 
+                     Foreground="AntiqueWhite"  FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Grid.Column="11" x:Name="MotionTimeOut" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" 
+                     Foreground="AntiqueWhite"  FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Grid.Column="12" x:Name="Scale" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" 
+                     Foreground="AntiqueWhite"  FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox Grid.Column="13" x:Name="JVel" x:FieldModifier="private" Text="0000.000" Background="Transparent" BorderBrush="Transparent" 
+                     Foreground="AntiqueWhite"  FontSize="12" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</UserControl>

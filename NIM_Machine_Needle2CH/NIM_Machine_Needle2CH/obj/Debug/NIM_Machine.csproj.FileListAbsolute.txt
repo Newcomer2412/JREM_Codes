@@ -1,0 +1,1522 @@
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\1. Project_SW\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+D:\1. Project_SW\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe
+D:\1. Project_SW\J0443_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+C:\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe
+C:\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+C:\J0443_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+D:\핵산추출기소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe
+D:\핵산추출기소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\핵산추출기소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+F:\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+F:\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe
+F:\J0443_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+F:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\1. Project_SW\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+\\192.168.0.242\J-rem_ctl\소프트웨어팀\0. Project_Data\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+D:\소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe
+D:\소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\App.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\App.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\MainWindow.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\소스파일\J0443_NIM_Machine\NIM_Machine - 복사본\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\소스파일\니들삽입기 비전 테스트용\JREM_Execution\NIM_Machine.exe.config
+D:\소스파일\니들삽입기 비전 테스트용\JREM_Execution\NIM_Machine.exe
+D:\소스파일\니들삽입기 비전 테스트용\JREM_Execution\NIM_Machine.pdb
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\소스파일\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\소스파일\PC\니들삽입기 비전 테스트용\JREM_Execution\NIM_Machine.exe.config
+D:\소스파일\PC\니들삽입기 비전 테스트용\JREM_Execution\NIM_Machine.exe
+D:\소스파일\PC\니들삽입기 비전 테스트용\JREM_Execution\NIM_Machine.pdb
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\소스파일\PC\니들삽입기 비전 테스트용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\JREM_Execution\NIM_Machine.exe.config
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\JREM_Execution\NIM_Machine.exe
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\JREM_Execution\NIM_Machine.pdb
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\소스파일\PC\J0443_NIM_Machine Ver.돔조명사용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\JREM_Execution\NIM_Machine.exe.config
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\JREM_Execution\NIM_Machine.exe
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\JREM_Execution\NIM_Machine.pdb
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\소스파일\PC\J0443_NIM_Machine 11.11출장용\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+C:\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\소스파일\PC\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+D:\소스파일\PC\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe
+D:\소스파일\PC\J0443_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\소스파일\PC\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.exe
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\App.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MainWindow.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\App.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\App.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\MainWindow.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\JREM_Execution\NIM_Machine.exe.config
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\JREM_Execution\NIM_Machine.exe
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\JREM_Execution\NIM_Machine.pdb
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\MainWindow.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\App.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine_MarkupCompile.lref
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\App.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideMainUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\SlideVisionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\Vision\VisionToolBlockUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\1.SequencePart\MapData\DataUI\MapDataUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterListUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\AxisParameterUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\3.ControlPart\UserControl\ManualMotionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\ErrorViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\HolderWorkUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoListViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SequenceNoViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\TaktTimeUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisInfoUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Column.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Pie.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\Chart\Sub_Pannel.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\GraphViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\InitializeBoxUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\AlarmScreenUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\LogViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\CircularProgressBar.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageMiniUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AlarmDataUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\TimePicker.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\StartLoadingUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\VersionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\VisionGraphViewUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\MainWindow.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\DataEditUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\IOMonitorUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\ModelSelectUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\MainUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\0.MainPart\MainUI\OptionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\MessageUI\MessageUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\AixsUI\AxisPositionUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOActuatorUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOSingleUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\IoUI\IOUserUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\NumPadUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.baml
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.g.resources
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\MachineControlBase.Properties.Resources.resources
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.csproj.GenerateResource.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.csproj.CoreCompileInputs.cache
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.csproj.CopyComplete
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.exe
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.pdb
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\미리수정본_NIM_Machine\NIM_Machine - 미리작업본(수정)\NIM_Machine\obj\Debug\NIM_Machine.csproj.AssemblyReference.cache

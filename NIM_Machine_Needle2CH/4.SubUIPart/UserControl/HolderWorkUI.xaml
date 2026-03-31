@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="MachineControlBase.HolderWorkUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:local="clr-namespace:MachineControlBase"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="800" d:DesignWidth="800"
+             mc:Ignorable="d">
+    <Grid>
+        <Canvas>
+            <Image Width="800" Height="800" Opacity="0.3" Source="..\..\ImagePart\Holder_Work.png" Stretch="Uniform" />
+            <Ellipse x:Name="HolderPin1"
+                     Canvas.Left="358" Canvas.Top="361"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin2"
+                     Canvas.Left="433" Canvas.Top="231"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin3"
+                     Canvas.Left="508" Canvas.Top="361"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin4"
+                     Canvas.Left="433" Canvas.Top="491"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin5"
+                     Canvas.Left="283" Canvas.Top="491"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin6"
+                     Canvas.Left="208" Canvas.Top="361"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin7"
+                     Canvas.Left="283" Canvas.Top="231"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin8"
+                     Canvas.Left="433" Canvas.Top="81"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin9"
+                     Canvas.Left="562" Canvas.Top="156"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin10"
+                     Canvas.Left="637" Canvas.Top="286"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin11"
+                     Canvas.Left="638" Canvas.Top="436"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin12"
+                     Canvas.Left="563" Canvas.Top="566"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin13"
+                     Canvas.Left="432" Canvas.Top="642"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin14"
+                     Canvas.Left="283" Canvas.Top="642"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin15"
+                     Canvas.Left="152" Canvas.Top="566"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin16"
+                     Canvas.Left="77" Canvas.Top="436"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin17"
+                     Canvas.Left="78" Canvas.Top="286"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin18"
+                     Canvas.Left="153" Canvas.Top="156"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+            <Ellipse x:Name="HolderPin19"
+                     Canvas.Left="283" Canvas.Top="81"
+                     Width="81" Height="81"
+                     Fill="Green" PreviewMouseDown="HolderPin_PreviewMouseDown" />
+        </Canvas>
+    </Grid>
+</UserControl>
