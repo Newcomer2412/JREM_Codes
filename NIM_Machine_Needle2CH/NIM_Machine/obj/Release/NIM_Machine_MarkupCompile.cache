@@ -1,0 +1,20 @@
+﻿NIM_Machine
+
+
+winexe
+C#
+.cs
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\obj\Release\
+MachineControlBase
+none
+false
+TRACE
+D:\제이렘_이준영\PC\6. J0443_NIM_Machine\1. 소스파일\J0443_NIM_Machine\NIM_Machine\NIM_Machine\App.xaml
+43253021240
+
+115-463579659
+69-1061415520
+0.MainPart\MainUI\SlideMainUI.xaml;0.MainPart\MainUI\SlideVisionUI.xaml;0.MainPart\Vision\VisionToolBlockUI.xaml;1.SequencePart\MapData\DataUI\MapDataUI.xaml;3.ControlPart\UserControl\AxisParameterListUI.xaml;3.ControlPart\UserControl\AxisParameterUI.xaml;3.ControlPart\UserControl\ManualMotionUI.xaml;4.SubUIPart\ErrorViewUI.xaml;4.SubUIPart\UserControl\HolderWorkUI.xaml;4.SubUIPart\UserControl\SequenceNoListViewUI.xaml;4.SubUIPart\UserControl\SequenceNoViewUI.xaml;4.SubUIPart\UserControl\TaktTimeUI.xaml;4.SubUIPart\UserControl\AixsUI\AxisInfoUI.xaml;4.SubUIPart\UserControl\Chart\Column.xaml;4.SubUIPart\UserControl\Chart\Pie.xaml;4.SubUIPart\UserControl\Chart\Sub_Pannel.xaml;4.SubUIPart\GraphViewUI.xaml;4.SubUIPart\InitializeBoxUI.xaml;4.SubUIPart\AlarmScreenUI.xaml;4.SubUIPart\LogViewUI.xaml;4.SubUIPart\UserControl\IoUI\IOMonitorMiniUI.xaml;4.SubUIPart\UserControl\CircularProgressBar.xaml;4.SubUIPart\UserControl\IoUI\IOSingleMiniUI.xaml;4.SubUIPart\UserControl\MessageUI\MessageMiniUI.xaml;4.SubUIPart\UserControl\AlarmDataUI.xaml;4.SubUIPart\UserControl\SetDataUI\TimePicker.xaml;4.SubUIPart\UserControl\SetDataUI\UserStrInputUI.xaml;4.SubUIPart\UserControl\StartLoadingUI.xaml;4.SubUIPart\UserControl\VersionUI.xaml;4.SubUIPart\VisionGraphViewUI.xaml;MainWindow.xaml;0.MainPart\MainUI\DataEditUI.xaml;4.SubUIPart\IOMonitorUI.xaml;4.SubUIPart\ModelSelectUI.xaml;0.MainPart\MainUI\MainUI.xaml;0.MainPart\MainUI\OptionUI.xaml;4.SubUIPart\UserControl\MessageUI\MessageUI.xaml;4.SubUIPart\UserControl\AixsUI\AxisPositionUI.xaml;4.SubUIPart\UserControl\IoUI\IOActuatorUI.xaml;4.SubUIPart\UserControl\IoUI\IOSingleUI.xaml;4.SubUIPart\UserControl\IoUI\IOUserUI.xaml;4.SubUIPart\UserControl\SetDataUI\NumPadUI.xaml;4.SubUIPart\UserControl\SetDataUI\UserNumInputUI.xaml;
+
+False
+

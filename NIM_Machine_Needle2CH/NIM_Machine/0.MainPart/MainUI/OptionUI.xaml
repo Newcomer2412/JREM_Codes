@@ -1,0 +1,548 @@
+﻿<UserControl x:Class="MachineControlBase.OptionUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:local="clr-namespace:MachineControlBase"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             d:DesignHeight="1080" d:DesignWidth="1800" IsVisibleChanged="UserControl_IsVisibleChanged"
+             mc:Ignorable="d">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type TabControl}">
+            <Setter Property="Margin" Value="0" />
+            <Setter Property="Padding" Value="0" />
+            <Setter Property="BorderThickness" Value="0" />
+        </Style>
+
+        <Style TargetType="TabItem">
+            <Setter Property="FontSize" Value="17" />
+            <Setter Property="BorderBrush" Value="Black" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TabItem}">
+                        <Border Margin="0,0,0,0" Background="{TemplateBinding Background}" BorderBrush="Black" BorderThickness="1" CornerRadius="20">
+                            <ContentPresenter Margin="16" ContentSource="Header" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter Property="Background" Value="WhiteSmoke" />
+                                <Setter Property="Foreground" Value="Black" />
+                            </Trigger>
+                            <Trigger Property="IsSelected" Value="false">
+                                <Setter Property="Background" Value="#FF404040" />
+                                <Setter Property="Foreground" Value="WhiteSmoke" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid Background="Black">
+        <TabControl TabStripPlacement="Left">
+            <TabItem Width="170" Header="메인">
+                <Canvas Background="Black">
+                    <Image Canvas.Left="30" Canvas.Top="160"
+                           Width="1546" Height="750"
+                           Margin="20"
+                           Opacity="0.3" Source="..\..\ImagePart\cc.png" Stretch="Uniform" />
+
+                    <Grid Canvas.Left="1250" Canvas.Top="310" Width="300">
+                        <Border Background="#44000000" CornerRadius="10" />
+                        <StackPanel>
+                            <TextBlock Foreground="GreenYellow" Text="피더와의 통신을 재연결합니다." />
+                            <Grid Height="50" Margin="10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition />
+                                </Grid.ColumnDefinitions>
+                                <Button Name="BtFeederReconnect"
+                                        Grid.Column="1"
+                                        Width="180"
+                                        HorizontalAlignment="Left"
+                                        Background="LightBlue" Click="BtFeederReconnect_Button_Click" Content="피더 통신 재연결" FontSize="20" Foreground="Black" />
+                            </Grid>
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Canvas.Left="8" Canvas.Top="9" Width="400">
+                        <Border Background="#44000000" CornerRadius="10" />
+                        <StackPanel Margin="5">
+                            <TextBlock Margin="10" Foreground="Yellow" Text="장비 구동 설정" />
+                            <local:UserNumInputUI x:Name="UIAllAutoRatio" Grid.Row="1" Height="25" Margin="10" _strName="자동 운전 최대 속도(%)" />
+                            <local:UserNumInputUI x:Name="UIMotorTimeOut" Grid.Row="4" Height="25" Margin="10" _strName="모터 구동 타임 아웃(ms)" />
+                            <local:UserNumInputUI x:Name="UISensorCheckTimeOut" Grid.Row="4" Height="25" Margin="10" _strName="센서 감지 타임 아웃(ms)" />
+                            <local:UserNumInputUI x:Name="UICylinderRepeatTime" Grid.Row="5" Height="25" Margin="10" _strName="실린더 반복 이송 대기 시간(ms)" />
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Canvas.Left="1198" Canvas.Top="836">
+                        <Border Background="#44000000" CornerRadius="10" />
+                        <StackPanel Margin="5">
+                            <Grid Width="400" Margin="5">
+                                <Border Background="#99000000" CornerRadius="10" />
+                                <ToggleButton x:Name="TbStartInitUse"
+                                              Margin="20"
+                                              Content="Program 시작 시 장비 초기화를 진행합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                              Style="{DynamicResource ToggleSwitchTopStyle}" />
+                                <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="Text" Value="Off" />
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding ElementName=TbStartInitUse, Path=IsChecked}" Value="True">
+                                                    <Setter Property="Text" Value="On" />
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding ElementName=TbStartInitUse, Path=IsEnabled}" Value="false">
+                                                    <Setter Property="Opacity" Value="0.2" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                            </Grid>
+                            <Grid Width="400" Margin="5">
+                                <Border Background="#99000000" CornerRadius="10" />
+                                <ToggleButton x:Name="TbDryRunUse"
+                                              Margin="20"
+                                              Content="장비를 Dry Run Mode로 실행합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                              Style="{DynamicResource ToggleSwitchTopStyle}" />
+                                <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="Text" Value="Off" />
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding ElementName=TbDryRunUse, Path=IsChecked}" Value="True">
+                                                    <Setter Property="Text" Value="On" />
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding ElementName=TbDryRunUse, Path=IsEnabled}" Value="false">
+                                                    <Setter Property="Opacity" Value="0.2" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                            </Grid>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="8" Canvas.Top="791">
+                        <Border Background="#44000000" CornerRadius="10" />
+                        <StackPanel Margin="5">
+                            <Grid Width="500" Margin="5">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="0.5*" />
+                                </Grid.ColumnDefinitions>
+                                <Border Grid.RowSpan="3" Grid.ColumnSpan="2" Background="#99000000" CornerRadius="10" />
+                                <ToggleButton x:Name="TbDataAutoBackupUse"
+                                              Grid.ColumnSpan="2"
+                                              Margin="20"
+                                              Content="Position, 설정 값 등 중요 데이터를 백업합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                              Style="{DynamicResource ToggleSwitchTopStyle}" />
+                                <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="Text" Value="Off" />
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding ElementName=TbDataAutoBackupUse, Path=IsChecked}" Value="True">
+                                                    <Setter Property="Text" Value="On" />
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding ElementName=TbDataAutoBackupUse, Path=IsEnabled}" Value="false">
+                                                    <Setter Property="Opacity" Value="0.2" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                                <ComboBox Name="CbDataAutoBackupIndex" Grid.Column="1" Height="40" Margin="20,30,20,0">
+                                    <ComboBoxItem Content="Everyday" />
+                                    <ComboBoxItem Content="Monday" />
+                                    <ComboBoxItem Content="Tuesday" />
+                                    <ComboBoxItem Content="Wednesday" />
+                                    <ComboBoxItem Content="Thursday" />
+                                    <ComboBoxItem Content="Friday" />
+                                    <ComboBoxItem Content="Saturday" />
+                                    <ComboBoxItem Content="Sunday" />
+                                </ComboBox>
+                            </Grid>
+                            <Grid Width="500" Margin="5">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                </Grid.RowDefinitions>
+                                <Border Grid.RowSpan="2" Background="#99000000" CornerRadius="10" />
+                                <ToggleButton x:Name="TbAutoDeleteUse"
+                                              Margin="20"
+                                              Content="Auto Log and Backup Data Delete 기능을 사용합니다. (단위 Day)" FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                              Style="{DynamicResource ToggleSwitchTopStyle}" />
+                                <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="Text" Value="Off" />
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding ElementName=TbAutoDeleteUse, Path=IsChecked}" Value="True">
+                                                    <Setter Property="Text" Value="On" />
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding ElementName=TbAutoDeleteUse, Path=IsEnabled}" Value="false">
+                                                    <Setter Property="Opacity" Value="0.2" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                                <local:UserNumInputUI x:Name="UIAutoDeleteDay" Grid.Row="1" Height="25" Margin="10" _strData="30" _strName="Delete Day" />
+                            </Grid>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="685" Canvas.Top="730" Width="320">
+                        <Border Background="#99000000" CornerRadius="10,10,10,10" />
+                        <ToggleButton x:Name="TbHolderInspSkip"
+                                      Margin="20"
+                                      Content="홀더 비전검사(파이프, 니들 유무) 스킵" FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                      Style="{DynamicResource ToggleSwitchTopStyle}" />
+                        <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="Off" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding ElementName=TbHolderInspSkip, Path=IsChecked}" Value="True">
+                                            <Setter Property="Text" Value="On" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding ElementName=TbHolderInspSkip, Path=IsEnabled}" Value="false">
+                                            <Setter Property="Opacity" Value="0.2" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </Grid>
+
+                    <Grid Canvas.Left="694" Canvas.Top="120" Width="300">
+                        <Border Background="#99000000" CornerRadius="10,10,10,10" />
+                        <ToggleButton x:Name="TbNeedlePosCheckTwice"
+                                      Margin="20"
+                                      Content="니들 자세검사를 한번 더 합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                      Style="{DynamicResource ToggleSwitchTopStyle}" />
+                        <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="Off" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding ElementName=TbNeedlePosCheckTwice, Path=IsChecked}" Value="True">
+                                            <Setter Property="Text" Value="On" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding ElementName=TbNeedlePosCheckTwice, Path=IsEnabled}" Value="false">
+                                            <Setter Property="Opacity" Value="0.2" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </Grid>
+
+                    <Grid Canvas.Left="694" Canvas.Top="227" Width="200">
+                        <Border Background="#99000000" CornerRadius="10,10,10,10" />
+                        <ToggleButton x:Name="TbFluorescentUse"
+                                      Margin="20"
+                                      Content="형광등을 사용합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                      Style="{DynamicResource ToggleSwitchTopStyle}" />
+                        <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="Off" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding ElementName=TbFluorescentUse, Path=IsChecked}" Value="True">
+                                            <Setter Property="Text" Value="On" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding ElementName=TbFluorescentUse, Path=IsEnabled}" Value="false">
+                                            <Setter Property="Opacity" Value="0.2" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </Grid>
+                    <Grid Canvas.Left="1236" Canvas.Top="10" Width="382">
+                        <Border Background="#99000000" CornerRadius="10,10,10,10" />
+                        <ToggleButton x:Name="TbBuzzerUse"
+                                      Margin="20"
+                                      Content="시스템 알람 시 부저를 사용합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                      Style="{DynamicResource ToggleSwitchTopStyle}" />
+                        <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="Off" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding ElementName=TbBuzzerUse, Path=IsChecked}" Value="True">
+                                            <Setter Property="Text" Value="On" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding ElementName=TbBuzzerUse, Path=IsEnabled}" Value="false">
+                                            <Setter Property="Opacity" Value="0.2" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </Grid>
+                    <Grid Canvas.Left="10" Canvas.Top="292">
+                        <Border Background="#99000000" CornerRadius="10,10,10,10" />
+                        <ToggleButton x:Name="TbDoorLockUse"
+                                      Margin="20"
+                                      Content="Door Lock 기능을 사용합니다.&#10;(해제 시 문이 열려도 장비는 구동합니다. 주의하세요)" FontSize="15" FontWeight="Normal" Foreground="GreenYellow"
+                                      IsChecked="False"
+                                      Style="{DynamicResource ToggleSwitchTopStyle}" />
+                        <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="Off" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding ElementName=TbDoorLockUse, Path=IsChecked}" Value="True">
+                                            <Setter Property="Text" Value="On" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding ElementName=TbDoorLockUse, Path=IsEnabled}" Value="false">
+                                            <Setter Property="Opacity" Value="0.2" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </Grid>
+                    <Grid Canvas.Left="1236" Canvas.Top="117">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*" />
+                            <RowDefinition Height="1*" />
+                        </Grid.RowDefinitions>
+                        <Border Grid.RowSpan="2" Background="#99000000" CornerRadius="10,10,10,10" />
+                        <ToggleButton x:Name="TbAlarmTimeUse"
+                                      Margin="20"
+                                      Content="알람 발생 시 알람 부저 울리는 시간을 설정합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                      Style="{DynamicResource ToggleSwitchTopStyle}" />
+                        <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="Off" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding ElementName=TbAlarmTimeUse, Path=IsChecked}" Value="True">
+                                            <Setter Property="Text" Value="On" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding ElementName=TbAlarmTimeUse, Path=IsEnabled}" Value="false">
+                                            <Setter Property="Opacity" Value="0.2" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <local:UserNumInputUI x:Name="UIAlarmTime" Grid.Row="1" Height="25" Margin="10" _strData="30" _strName="알람 울림 시간 설정(초)" />
+                    </Grid>
+                    <Grid Canvas.Left="672" Canvas.Top="836">
+                        <Border Background="#44000000" CornerRadius="10" />
+                        <StackPanel Margin="5">
+                            <Grid Width="350" Margin="5">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                </Grid.RowDefinitions>
+                                <Border Grid.RowSpan="3" Grid.ColumnSpan="2" Background="#99000000" CornerRadius="10" />
+                                <ToggleButton x:Name="TbImage_SaveUse"
+                                              Grid.ColumnSpan="2"
+                                              Margin="20"
+                                              Content="카메라에서 촬영한 이미지를 저장합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                              Style="{DynamicResource ToggleSwitchTopStyle}" />
+                                <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="Text" Value="Off" />
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding ElementName=TbImage_SaveUse, Path=IsChecked}" Value="True">
+                                                    <Setter Property="Text" Value="On" />
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding ElementName=TbImage_SaveUse, Path=IsEnabled}" Value="false">
+                                                    <Setter Property="Opacity" Value="0.2" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                            </Grid>
+                            <Grid Width="350" Margin="5">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*" />
+                                    <RowDefinition Height="1*" />
+                                </Grid.RowDefinitions>
+                                <Border Grid.RowSpan="2" Background="#99000000" CornerRadius="10" />
+                                <ToggleButton x:Name="TbImage_NGSaveUse"
+                                              Margin="20"
+                                              Content="NG 이미지만 저장합니다." FontSize="15" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                              Style="{DynamicResource ToggleSwitchTopStyle}" />
+                                <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="Text" Value="Off" />
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding ElementName=TbImage_NGSaveUse, Path=IsChecked}" Value="True">
+                                                    <Setter Property="Text" Value="On" />
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding ElementName=TbImage_NGSaveUse, Path=IsEnabled}" Value="false">
+                                                    <Setter Property="Opacity" Value="0.2" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                            </Grid>
+                        </StackPanel>
+                    </Grid>
+                </Canvas>
+            </TabItem>
+            <TabItem Width="170" Header="외부 제어 설정">
+                <Canvas Background="Black" />
+            </TabItem>
+            <TabItem Width="170" Header="Vision 설정">
+                <Canvas Background="Black">
+                    <Grid Canvas.Left="10" Canvas.Top="10" Width="533" Height="230">
+                        <Border Grid.RowSpan="2" Background="#19FFFFFF" CornerRadius="10,10,10,10" />
+                        <StackPanel>
+                            <TextBlock Margin="10" FontSize="20" Foreground="WhiteSmoke" Text="1번 카메라" />
+                            <local:UserNumInputUI x:Name="UICAM0_PipePnP_X_CameraCal" Height="25" Margin="10" _strName="파이프 PnP X 카메라 Cal" />
+                            <local:UserNumInputUI x:Name="UICAM0_PipePnP_Y_CameraCal" Height="25" Margin="10" _strName="파이프 PnP Y 카메라 Cal" />
+                            <local:UserNumInputUI x:Name="UICAM0_NeedlePnP_X_CameraCal" Height="25" Margin="10" _strName="니들 PnP X 카메라 Cal" />
+                            <local:UserNumInputUI x:Name="UICAM0_NeedlePnP_Y_CameraCal" Height="25" Margin="10" _strName="니들 PnP Y 카메라 Cal" />
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="550" Canvas.Top="10" Width="533" Height="95">
+                        <Border Grid.RowSpan="2" Background="#19FFFFFF" CornerRadius="10,10,10,10" />
+                        <StackPanel>
+                            <TextBlock Margin="10" FontSize="20" Foreground="WhiteSmoke" Text="2번 카메라" />
+                            <local:UserNumInputUI x:Name="UICAM1_PipeDegreeLimit" Height="25" Margin="10" _strName="파이프 각도 Limit" />
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="1090" Canvas.Top="10" Width="533" Height="140">
+                        <Border Grid.RowSpan="2" Background="#19FFFFFF" CornerRadius="10,10,10,10" />
+                        <StackPanel>
+                            <TextBlock Margin="10" FontSize="20" Foreground="WhiteSmoke" Text="3번 카메라" />
+                            <local:UserNumInputUI x:Name="UICAM2_NeedleDegreeLimit" Height="25" Margin="10" _strName="니들 각도 Limit" />
+                            <local:UserNumInputUI x:Name="UICAM2_NeedleSharpGap" Height="25" Margin="10" _strName="니들 Sharp Gap" />
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="10" Canvas.Top="550" Width="533" Height="360">
+                        <Border Grid.RowSpan="2" Background="#19FFFFFF" CornerRadius="10,10,10,10" />
+                        <StackPanel>
+                            <TextBlock Margin="10" FontSize="20" Foreground="WhiteSmoke" Text="4번 카메라" />
+                            <ComboBox x:Name="cbPipeMountOffset" Height="40" Margin="10" FontSize="24" Foreground="WhiteSmoke" SelectionChanged="cbPipeMountOffset_SelectionChanged" />
+                            <Grid Height="50" Margin="10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition />
+                                    <ColumnDefinition />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock x:Name="tbHolderPipeOffset_X"
+                                           Width="100"
+                                           HorizontalAlignment="Center" VerticalAlignment="Center"
+                                           FontSize="30" Foreground="White" PreviewMouseDown="Value_Changer" Text="0" TextAlignment="Center" />
+                                <TextBlock x:Name="tbHolderPipeOffset_Y"
+                                           Grid.Column="1"
+                                           Width="100"
+                                           HorizontalAlignment="Center" VerticalAlignment="Center"
+                                           FontSize="30" Foreground="White" PreviewMouseDown="Value_Changer" Text="0" TextAlignment="Center" />
+                            </Grid>
+                            <local:UserNumInputUI x:Name="UICAM0_PipeMount_X_CameraCal" Height="25" Margin="10" _strName="파이프 마운트 X 카메라 Cal" />
+                            <local:UserNumInputUI x:Name="UICAM0_PipeMount_Y_CameraCal" Height="25" Margin="10" _strName="파이프 마운트 Y 카메라 Cal" />
+                            <local:UserNumInputUI x:Name="UICAM3_PipeMountCal_X_Limit" Height="25" Margin="10" _strName="파이프 마운트 캘리브레이션 X Limit" />
+                            <local:UserNumInputUI x:Name="UICAM3_PipeMountCal_Y_Limit" Height="25" Margin="10" _strName="파이프 마운트 캘리브레이션 Y Limit" />
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="550" Canvas.Top="550" Width="533" Height="360">
+                        <Border Grid.RowSpan="2" Background="#19FFFFFF" CornerRadius="10,10,10,10" />
+                        <StackPanel>
+                            <TextBlock Margin="10" FontSize="20" Foreground="WhiteSmoke" Text="5번 카메라" />
+                            <ComboBox x:Name="cbNeedleMountOffset" Height="40" Margin="10" FontSize="24" Foreground="WhiteSmoke" SelectionChanged="cbNeedleMountOffset_SelectionChanged" />
+                            <Grid Height="50" Margin="10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition />
+                                    <ColumnDefinition />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock x:Name="tbHolderNeedleOffset_X"
+                                           Width="100"
+                                           HorizontalAlignment="Center" VerticalAlignment="Center"
+                                           FontSize="30" Foreground="White" PreviewMouseDown="Value_Changer" Text="0" TextAlignment="Center" />
+                                <TextBlock x:Name="tbHolderNeedleOffset_Y"
+                                           Grid.Column="1"
+                                           Width="100"
+                                           HorizontalAlignment="Center" VerticalAlignment="Center"
+                                           FontSize="30" Foreground="White" PreviewMouseDown="Value_Changer" Text="0" TextAlignment="Center" />
+                            </Grid>
+                            <local:UserNumInputUI x:Name="UICAM0_NeedleMount_X_CameraCal" Height="25" Margin="10" _strName="니들 마운트 X 카메라 Cal" />
+                            <local:UserNumInputUI x:Name="UICAM0_NeedleMount_Y_CameraCal" Height="25" Margin="10" _strName="니들 마운트 Y 카메라 Cal" />
+                            <local:UserNumInputUI x:Name="UICAM4_NeedleMountCal_X_Limit" Height="25" Margin="10" _strName="니들 마운트 캘리브레이션 X Limit" />
+                            <local:UserNumInputUI x:Name="UICAM4_NeedleMountCal_Y_Limit" Height="25" Margin="10" _strName="니들 마운트 캘리브레이션 Y Limit" />
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="1090" Canvas.Top="550" Width="533" Height="200">
+                        <Border Grid.RowSpan="2" Background="#19FFFFFF" CornerRadius="10,10,10,10" />
+                        <StackPanel>
+                            <TextBlock Margin="10" FontSize="20" Foreground="WhiteSmoke" Text="6번 카메라" />
+                            <local:UserNumInputUI x:Name="UICAM5_Disp_X_CameraCal" Height="25" Margin="10" _strName="디스펜서 캘리브레이션 X Limit" />
+                            <local:UserNumInputUI x:Name="UICAM5_Disp_Y_CameraCal" Height="25" Margin="10" _strName="디스펜서 캘리브레이션 Y Limit" />
+                        </StackPanel>
+                    </Grid>
+                </Canvas>
+            </TabItem>
+            <TabItem Width="170" Header="기타 설정">
+                <Canvas Background="Black">
+                    <Grid Canvas.Left="10" Canvas.Top="10" Width="533">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*" />
+                            <RowDefinition Height="1*" />
+                            <RowDefinition Height="1*" />
+                        </Grid.RowDefinitions>
+                        <Border Grid.RowSpan="3" Background="#19FFFFFF" CornerRadius="10,10,10,10" />
+                        <ToggleButton x:Name="TbLightSerialUse"
+                                      Margin="20"
+                                      Content="조명 Serial 통신을 사용합니다." FontSize="20" FontWeight="Normal" Foreground="GreenYellow" IsChecked="False"
+                                      Style="{DynamicResource ToggleSwitchTopStyle}" />
+                        <TextBlock Margin="95,0,0,23" VerticalAlignment="Bottom" FontSize="20" FontWeight="Normal" Foreground="WhiteSmoke">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="Off" />
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding ElementName=TbLightSerialUse, Path=IsChecked}" Value="True">
+                                            <Setter Property="Text" Value="On" />
+                                        </DataTrigger>
+                                        <DataTrigger Binding="{Binding ElementName=TbLightSerialUse, Path=IsEnabled}" Value="false">
+                                            <Setter Property="Opacity" Value="0.2" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <local:UserStrInputUI x:Name="UILightSerialComPort" Grid.Row="1" Height="25" Margin="10,10,10,20" _strData="COM1" _strName="Light Com Port Number" />
+                    </Grid>
+                    <Grid Canvas.Left="10" Canvas.Top="179" Width="533" Height="100">
+                        <Border Grid.RowSpan="3" Background="#19FFFFFF" CornerRadius="10" />
+                        <StackPanel Margin="10">
+                            <TextBlock Margin="10,5,0,5" VerticalAlignment="Bottom" FontSize="18" FontWeight="Normal" Foreground="GreenYellow" Text="UV 컨트롤러 Serial 통신 포트" />
+                            <local:UserStrInputUI x:Name="UIUV_CtlComPort" Height="25" Margin="10,10,10,20" _strData="COM2" _strName="UV Controller Com Port" />
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="1086" Canvas.Top="10" Width="533" Height="100">
+                        <Border Grid.RowSpan="3" Background="#19FFFFFF" CornerRadius="10" />
+                        <StackPanel Margin="10">
+                            <TextBlock Margin="10,5,0,5" VerticalAlignment="Bottom" FontSize="18" FontWeight="Normal" Foreground="GreenYellow" Text="AIM 피더 IP Address" />
+                            <local:UserStrInputUI x:Name="UIAIM_FeederIP" Height="25" Margin="10,10,10,20" _strData="192.168.0.10" _strName="AIM Feeder IP" />
+                        </StackPanel>
+                    </Grid>
+                    <Grid Canvas.Left="1300" Canvas.Top="500" Width="200" Height="100">
+                        <!--<Button Background="#FF333333" Click="Quit_Button_Click" Foreground="WhiteSmoke">
+                            <Image Height="50" Source="ImagePart\Shutdown.png" Stretch="Uniform" />
+                        </Button>-->
+                    </Grid>
+                </Canvas>
+            </TabItem>
+        </TabControl>
+        <Button x:Name="BTSave"
+                Width="170" Height="70"
+                Margin="2,0,0,5" HorizontalAlignment="Left" VerticalAlignment="Bottom"
+                Background="OrangeRed" Click="BTSave_Click" Content="저장" FontSize="20" Foreground="WhiteSmoke" />
+    </Grid>
+</UserControl>
